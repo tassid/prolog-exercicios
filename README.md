@@ -1,1 +1,1 @@
-# prolog_exercicios
+# prolog-exercicios
